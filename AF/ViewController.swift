@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
     }
 /**
- This is ali
+ This is alis
  */
     func example(p1:String, p2:Int){
     
